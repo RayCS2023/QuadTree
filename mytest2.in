@@ -1,0 +1,18 @@
+print
+i city1;100;100;10;20;30
+i city2;100;100;10;20;30
+i city2;200;50;11;21;31
+i city3;300;100;0;0;0
+q_max 200;50;SE;r
+q_min 200;50;SE;r
+q_total 200;50;SE;r
+q_max 200;50;NE;p
+q_min 200;50;NE;p
+q_total 200;50;NE;p
+i city4;111;111;2147483647;0;0
+i city5;112;112;0;0;0
+q_max 100;100;NE;p
+q_min 100;100;NE;p
+q_total 100;100;NE;p
+clear
+size
